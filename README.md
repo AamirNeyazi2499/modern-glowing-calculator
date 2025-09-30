@@ -51,6 +51,9 @@ modern-glowing-calculator/
 
 **Aamir Neyazi**
 
+- GitHub: [@AamirNeyazi2499](https://github.com/AamirNeyazi2499)
+- LinkedIn: [Aamir Neyazi](https://www.linkedin.com/in/aamirneyazi/)
+
 ---
 
 <div align="center">
@@ -58,6 +61,3 @@ modern-glowing-calculator/
 Made with ❤️ by Aamir Neyazi
 
 </div>
-
-- GitHub: [@AamirNeyazi2499](https://github.com/AamirNeyazi2499)
-- LinkedIn: [Aamir Neyazi](https://www.linkedin.com/in/aamirneyazi/)
