@@ -1,4 +1,4 @@
-# Modern Glowing Calculator
+#  🧮  Modern Glowing Calculator
 
 A stylish calculator built using **HTML5**, **CSS3**, and **JavaScript**.  
 It features a modern glowing design with smooth user interaction and supports basic arithmetic operations.
@@ -25,5 +25,39 @@ It features a modern glowing design with smooth user interaction and supports ba
 - **JavaScript** → Calculator functionality  
 
 ---
+### Effects
+- Backdrop blur for glassmorphism
+- Box shadows for depth
+- Hover animations with glow
+- Smooth transitions
+- Ripple effect on click
+---
 
 ## 📂 Project Structure
+
+```
+modern-glowing-calculator/
+│
+├── index.html          # Main HTML structure
+├── styles.css          # Styling and animations
+├── script.js           # Calculator logic
+├── README.md           # Documentation
+├── LICENSE             # MIT License
+└── .gitignore          # Git ignore rules
+```
+---
+
+## 👨‍💻 Author
+
+**Aamir Neyazi**
+
+---
+
+<div align="center">
+
+Made with ❤️ by Aamir Neyazi
+
+</div>
+
+- GitHub: [@AamirNeyazi2499](https://github.com/AamirNeyazi2499)
+- LinkedIn: [Aamir Neyazi](https://www.linkedin.com/in/aamirneyazi/)
