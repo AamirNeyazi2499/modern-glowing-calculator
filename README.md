@@ -14,11 +14,8 @@ It features a modern glowing design with smooth user interaction and supports ba
 ---
 
 ## 📸 Screenshots
-(Add your screenshots here)
 
-Example:
-
-![Calculator Screenshot](./screenshot.png)
+![Calculator Screenshot](calculator.png)
 
 ---
 
